@@ -1,5 +1,7 @@
 # TCS Financial & Operating Performance Analysis
-**Data Source: Publicly available financial and operating TCS real data from TCS Investor Relations — Q1 FY2027 Data Sheet.**
+**Data Source: Publicly available financial and operating TCS real data from TCS Investor Relations — Q1 FY2027 Data Sheet.** [link](https://www.tcs.com/investor-relations/financial-statements)
+
+
 
 **An interactive Power BI report exploring growth, profitability, costs, workforce performance, and geographic exposure.**
 
