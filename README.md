@@ -4,7 +4,7 @@
 
 **Power BI · Power Query · DAX · Excel · Dimensional Modeling**
 
-[View Report PDF](Report/TCS-Financial-Performance.pdf) · [Download Power BI File](Report/TCS-Financial-Performance.pbix)
+[View Report PDF](Report/TCS-Financial-Performance.pdf) 
 
 ![TCS Executive Overview dashboard](Screenshots/01-Executive-Overview.png)
 
