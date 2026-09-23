@@ -4,9 +4,9 @@
 
 **Power BI · Power Query · DAX · Excel · Dimensional Modeling**
 
-[View Report PDF](Report/TCS-Financial-Performance.pdf) 
+[View Report PDF](Report/TCS%20Financial%20Performance%20Analysis%20%281%29.pdf)
 
-![TCS Executive overview dashboard](Screenshots/01 Executive overview.png)
+![Executive Overview](Screenshots/01%20Executive%20overview.png)
 
 ## Project Overview
 
@@ -51,7 +51,7 @@ Revenue, operating profit, operating margin, shareholder profit, and trailing tw
 
 ### 2. Growth & Profitability
 
-![Growth and Profitability dashboard](Screenshots/02-Growth-Profitability.png)
+![Growth & Profitability](Screenshots/02%20Growth%20%26%20profitability.png)
 
 **Purpose:** Examine the quality of growth and its relationship with profitability.
 
@@ -64,7 +64,7 @@ Revenue, operating profit, operating margin, shareholder profit, and trailing tw
 
 ### 3. Cost & Workforce
 
-![Cost and Workforce dashboard](Screenshots/03-Cost-Workforce.png)
+![Cost & Workforce](Screenshots/03%20Cost%20%26%20Workforce.png)
 
 **Purpose:** Understand cost pressure and the relationship between workforce spending and revenue.
 
@@ -77,7 +77,7 @@ Revenue, operating profit, operating margin, shareholder profit, and trailing tw
 
 ### 4. Geography & Operating Drivers
 
-![Geography and Operating Drivers dashboard](Screenshots/04-Geography-Operating-Drivers.png)
+![Geography & Operating Drivers](Screenshots/04%20Geography%20%26%20Operating%20Drivers.png)
 
 **Purpose:** Identify geographic concentration and markets that need attention.
 
@@ -91,7 +91,7 @@ Revenue, operating profit, operating margin, shareholder profit, and trailing tw
 
 ### 5. Scenario & Methodology
 
-![Scenario and Methodology dashboard](Screenshots/05-Scenario-Methodology.png)
+![Scenario & Methodology](Screenshots/05%20Scenario%20%26%20Methodology.png)
 
 **Purpose:** Explore how revenue and cost assumptions affect operating profit.
 
@@ -115,7 +115,7 @@ Users adjust revenue, employee costs, and other operating costs relative to a se
 
 Separate financial, operating, and geography fact tables connect to shared quarter and relevant metric dimensions. One-to-many relationships support filtering at each fact table's reporting grain. Disconnected helper tables support scenario inputs and selected analytical views.
 
-![Power BI data model](Documentation/Data-Model.png)
+![Power BI Data Model](Screenshots/Datamodel.png)
 
 ### DAX and Report Features
 
