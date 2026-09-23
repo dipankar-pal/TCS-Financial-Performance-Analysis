@@ -6,7 +6,8 @@
 
 [View Report PDF](Report/TCS-Financial-Performance.pdf) 
 
-![TCS Executive overview dashboard](Screenshots/01-Executive-verview.png)
+![TCS Executive overview dashboard](<img width="1150" height="766" alt="01 Executive overview" src="https://github.com/user-attachments/assets/51dddce2-b962-4494-9d89-9b912575cb6f" />
+)
 
 ## Project Overview
 
